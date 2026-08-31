@@ -181,3 +181,4 @@ python -m http.server 8000
 
 - [Dokumentasi MediaPipe Web LLM Inference API](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/web_js)
 - [Gemma 4 Model Hub di Hugging Face](https://huggingface.co/models?search=gemma-4)
+- [ Hugging Face](https://huggingface.co/litert-community)
