@@ -2,12 +2,7 @@
 Proyek ini merupakan penyederhanaan dari [MediaPipe Samples
 ---
 ---
-title: Gemma4
-emoji: 🔥
-colorFrom: blue
-colorTo: gray
-sdk: static
-pinned: false
+
 short_description: Chat dengan model Gemma 4 sepenuhnya di browser menggunakan MediaPipe
 models:
   - litert-community/gemma-4-E2B-it-litert-lm
